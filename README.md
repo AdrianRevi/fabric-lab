@@ -41,4 +41,4 @@ Every lab folder has a short `README.md` with:
 
 ## Author
 
-**Adrián Reviriego** · Data Analyst & Engineer · Pamplona, Spain
+**Adrián Reviriego** · Data Analyst & Engineer · Pamplona, Spain · [LinkedIn](https://www.linkedin.com/in/adrian-reviriego/)
