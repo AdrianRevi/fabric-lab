@@ -1,0 +1,15 @@
+# Python / notebooks
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+
+# Secrets
+.env
+
+# Power BI project local files (cache and user settings)
+**/.pbi/localSettings.json
+**/.pbi/cache.abf
+
+# Large or private data
+data/raw/
+*.pbix
